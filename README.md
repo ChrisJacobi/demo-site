@@ -1,2 +1,2 @@
 # demo-site
-### simple demo site about cats to test my skills
+### simple beginner demo site 
